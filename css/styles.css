@@ -67,11 +67,14 @@ p
 {
     margin: 5% 3% 5% 0;
 }
-
+#title
+{
+    text-align: left;
+}
 #title .container-fluid
 {
     padding: 3% 15% 7%;
-    text-align: left;
+    
 }
 
 .title-img
